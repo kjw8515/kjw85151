@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome !!
-subtitle: About
+title: About
+subtitle: INTRODUCTION
 ---
 
 # JUNWOO KIM
